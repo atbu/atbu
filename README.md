@@ -6,7 +6,6 @@ I've mainly worked with:
 <a href="https://github.com/atbu/atbu">
   <img src="https://skillicons.dev/icons?i=git,github,py,js,java,html,css,bootstrap,nodejs,npm,react,prisma,tailwind,nextjs,django" />
 </a>
-<br />
 ###### (Git, GitHub, Python, JavaScript, Java, HTML, CSS, Bootstrap, Node.js, NPM, React, Prisma, Tailwind, Next.js, Django)
 
 But I have some experience with:
@@ -14,5 +13,4 @@ But I have some experience with:
 <a href="https://github.com/atbu/atbu">
   <img src="https://skillicons.dev/icons?i=dart,flutter,cs,cpp,linux,mysql,sqlite" />
 </a>
-<br />
 ###### (Dart, Flutter, C#, C++, Linux, SQL including MySQL and SQLite)

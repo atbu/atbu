@@ -14,4 +14,4 @@
   <img src="https://skillicons.dev/icons?i=dart,flutter,cs,cpp,linux,mysql,sqlite" />
 </a>
 <br />
-<sub><sup>(Dart, Flutter, C#, C++, Linux, SQL including MySQL and SQLite)</sup></sub>
+<sub>(Dart, Flutter, C#, C++, Linux, SQL including MySQL and SQLite)</sub>

@@ -12,3 +12,6 @@ But I have some experience with:
 <a href="https://github.com/atbu/atbu">
   <img src="https://skillicons.dev/icons?i=dart,flutter,cs,cpp,linux,mysql,sqlite" />
 </a>
+
+<img src="https://skillicons.dev/icons?i=git">
+<img src="https://skillicons.dev/icons?i=github">

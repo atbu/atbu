@@ -7,7 +7,7 @@ I've mainly worked with:
   <img src="https://skillicons.dev/icons?i=git,github,py,js,java,html,css,bootstrap,nodejs,npm,react,prisma,tailwind,nextjs,django" />
 </a>
 <br />
-<sub><sup>(Git, GitHub, Python, JavaScript, Java, HTML, CSS, Bootstrap, Node.js, NPM, React, Prisma, Tailwind, Next.js, Django)</sub></sup>
+<sub>(Git, GitHub, Python, JavaScript, Java, HTML, CSS, Bootstrap, Node.js, NPM, React, Prisma, Tailwind, Next.js, Django)</sub>
 
 But I have some experience with:
 <br />
@@ -15,4 +15,4 @@ But I have some experience with:
   <img src="https://skillicons.dev/icons?i=dart,flutter,cs,cpp,linux,mysql,sqlite" />
 </a>
 <br />
-<sub><sup>(Dart, Flutter, C#, C++, Linux, SQL including MySQL and SQLite)</sub></sup>
+<sub>(Dart, Flutter, C#, C++, Linux, SQL including MySQL and SQLite)</sub>

@@ -3,6 +3,7 @@
 **I'm Alex.** I'm a software developer hoping to take my existing experience into industry and expand it further.
 
 I've mainly worked with:
+<br />
 <a href="https://github.com/atbu/atbu">
   <img src="https://skillicons.dev/icons?i=git,github,py,js,java,html,css,bootstrap,nodejs,npm,react,prisma,tailwind,nextjs,django" />
 </a>
@@ -10,7 +11,7 @@ I've mainly worked with:
 <sub>(Git, GitHub, Python, JavaScript, Java, HTML, CSS, Bootstrap, Node.js, NPM, React, Prisma, Tailwind, Next.js, Django)</sub>
 
 But I have some experience with:
-<br />
+<br /><br />
 <a href="https://github.com/atbu/atbu">
   <img src="https://skillicons.dev/icons?i=dart,flutter,cs,cpp,linux,mysql,sqlite" />
 </a>
